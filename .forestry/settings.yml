@@ -21,6 +21,5 @@ build:
   preview_output_directory: public
   preview_docker_image: forestryio/hugo:latest
   mount_path: "/srv"
-  working_dir: "/"
   instant_preview_command: cd exampleSite && hugo --gc --themesDir ../..
 version: 0.55.6
