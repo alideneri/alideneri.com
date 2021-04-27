@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "alideneri.com"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "makine"
+hero_media = "makine.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
