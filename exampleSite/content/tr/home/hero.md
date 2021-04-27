@@ -5,10 +5,10 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Academia"
+title = "alideneri.com"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "{{< vimeo 322013198 >}}"
+hero_media = "makine"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -44,6 +44,4 @@ hero_media = "{{< vimeo 322013198 >}}"
 +++
 ## Hamur **Kesme**, **Gramajlama** ve **Yuvarlama** Makinesi
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.
-
-{{< vimeo 322013198 >}}
+Modüler yapısı ile kolayca taşınabilen, temizliği kolay, gıda tüzüğüne uygun krom paslanmaz çelik ve alüminyum malzemeden üretilen makinemiz uzun yıllar boyunca hamur üretiminizdeki baş yardımcınız olacak şekilde tasarlanmıştır.
