@@ -45,3 +45,5 @@ hero_media = "{{< vimeo 322013198 >}}"
 ## Hamur **Kesme**, **Gramajlama** ve **Yuvarlama** Makinesi
 
 Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.
+
+{{< vimeo 322013198 >}}
