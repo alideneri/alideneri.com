@@ -3,11 +3,11 @@
 
 <div class="row">
   {{ if ne $columns "1" }}
-    <div class="col-12 section-heading text-center">
+    <div class="col-6 section-heading text-center">
       {{ with $st.Title }}<h1>{{ . | markdownify | emojify }}</h1>{{ end }}
       {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
     </div>
-    <div class="col-12">
+    <div class="col-6">
       {{ $st.Content }}
     </div>
   {{ else }}
