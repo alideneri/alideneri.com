@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 4  # Order that this section will appear.
 
-title = "Kolay Temizlik ve Uç Değişimi"
+title = "Easy Cleaning and Change of Parts"
 subtitle = ""
 
 [design]
@@ -40,7 +40,7 @@ subtitle = ""
 
 +++
 
-Makinemiz **kolay temizliğe** ve **uç değişimine** olanak verecek şekilde tasarlanmıştır. Uç değişimi veya günlük temizlik için **herhangi bir ekstra alet edavata ihtiyaç duyulmaksızın** gerekli parçalar kolayca sökülüp takılabilmektedir.
+Our machine supports **easy cleanup** and **easy change of machine parts**. Doing routine cleaning takes only minutes **without using any extra tool**.
 
 <div class="row">
 <div class="col-6">

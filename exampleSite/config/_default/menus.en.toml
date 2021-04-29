@@ -9,21 +9,21 @@
   weight = 10
 
 [[main]]
-  name = "Teknik Özellikler"
+  name = "Technical Specs"
   url = "#specs"
   weight = 20
 
 [[main]]
-  name = "Nasıl Çalışır?"
+  name = "How It Works?"
   url = "#production"
   weight = 30
 
 [[main]]
-  name = "Temizlik"
+  name = "Cleaning"
   url = "#cleaning"
   weight = 40
 
 [[main]]
-  name = "İletişim"
+  name = "Contact"
   url = "#contact"
   weight = 50

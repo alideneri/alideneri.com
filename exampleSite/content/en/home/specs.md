@@ -6,9 +6,9 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 4  # Order that this section will appear.
+weight = 2  # Order that this section will appear.
 
-title = "Kolay Temizlik ve Uç Değişimi"
+title = "Technical Specs"
 subtitle = ""
 
 [design]
@@ -40,13 +40,17 @@ subtitle = ""
 
 +++
 
-Makinemiz **kolay temizliğe** ve **uç değişimine** olanak verecek şekilde tasarlanmıştır. Uç değişimi veya günlük temizlik için **herhangi bir ekstra alet edavata ihtiyaç duyulmaksızın** gerekli parçalar kolayca sökülüp takılabilmektedir.
+<center>
+<div style="display: inline-block;">
+<img src="/img/yerli.jpg" type="jpg" style="max-height: 100px;">
+</div>
+<div style="display: inline-block;">
+<img src="/img/garanti.png" type="png" >
+</div>
+</center>
 
-<div class="row">
-<div class="col-6">
-{{< youtube Siqwj153muo >}}
-</div>
-<div class="col-6">
-{{< youtube Mp1nrkz_djY >}}
-</div>
-</div>
+ - Fully Mechanical system. Very easy to clean and carry. It can produce **up to 4000 doughs per hour**.
+ - Can produce from **50gr** to **150gr** size of doughs.
+ - All **chrome stainless steel** and **aluminium** structure offers a *sterile*, *easy to clean* and *productive* working conditions even in wet environments
+ 
+{{< vimeo 322013198 >}}

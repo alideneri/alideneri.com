@@ -3,12 +3,12 @@
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+weight = 1  # Order that this section will appear.
 
-title = "Academia"
+title = "alideneri.com"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "user-2.jpg"
+hero_media = "makine.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -34,14 +34,14 @@ hero_media = "user-2.jpg"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [btn]
-  url = "/authors/admin"
-  label = "Know more"
+  url = "#specs"
+  label = "Technical Specs"
   
 [btn_alt]
   url = "#contact"
-  label = "Contact me"
+  label = "Contact"
 
 +++
-## My name is **Michael Vahn** and I'm a **Professor** specializing in **Artificial Intelligence**
+## Dough Cutting, Rounding and Sizing Machine
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.
+With its modular structure it is easy to carry and clean. It has designed according to **International Food Regulation Laws** with using **chrome stainless steel** and **aluminium**. It will be your **best helper** for many years.

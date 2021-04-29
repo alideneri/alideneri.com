@@ -6,9 +6,9 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 4  # Order that this section will appear.
+weight = 3  # Order that this section will appear.
 
-title = "Kolay Temizlik ve Uç Değişimi"
+title = "Dough Cutting, Rounding and Sizing"
 subtitle = ""
 
 [design]
@@ -40,13 +40,13 @@ subtitle = ""
 
 +++
 
-Makinemiz **kolay temizliğe** ve **uç değişimine** olanak verecek şekilde tasarlanmıştır. Uç değişimi veya günlük temizlik için **herhangi bir ekstra alet edavata ihtiyaç duyulmaksızın** gerekli parçalar kolayca sökülüp takılabilmektedir.
+Our machine can produce **50gr** to **150gr** sizes of dough and can produce **up to 4000 doughs per hour** under optimal conditions.
 
 <div class="row">
 <div class="col-6">
-{{< youtube Siqwj153muo >}}
+{{< youtube qNszCWbSvi0 >}}
 </div>
 <div class="col-6">
-{{< youtube Mp1nrkz_djY >}}
+{{< youtube cEawWk-xMZY >}}
 </div>
 </div>
