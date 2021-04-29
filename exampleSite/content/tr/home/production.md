@@ -42,9 +42,9 @@ subtitle = ""
 
 Makinemiz **50gr**'dan **150gr**'a kadar olan hamurları ebatlayabilmekte ve kesintisiz hamur beslemesi yapıldığı takdirde **saatte 4000 adet** kadar kullanıma hazır hamur üretebilmektedir.
 
-<div style="display: inline-block;">
+<div class="col-6">
 {{< youtube qNszCWbSvi0 >}}
 </div>
- <div style="display: inline-block;">
+<div class="col-6">
 {{< youtube cEawWk-xMZY >}}
 </div>

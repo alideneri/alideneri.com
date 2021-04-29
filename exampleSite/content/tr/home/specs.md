@@ -41,10 +41,10 @@ subtitle = ""
 +++
 
 <center>
-<div style="display: inline-block;">
+<div class="col-6">
 <img src="/img/yerli.jpg" type="jpg" style="max-height: 100px;">
 </div>
- <div style="display: inline-block;">
+<div class="col-6">
 <img src="/img/garanti.png" type="png" >
 </div>
 </center>

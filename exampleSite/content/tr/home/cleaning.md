@@ -42,9 +42,9 @@ subtitle = ""
 
 Makinemiz kolay temizliğe ve uç değişimine olanak verecek şekilde tasarlanmıştır. Uç değişimi veya günlük temizlik için herhangi bir ekstra alet edavata ihtiyaç duyulmaksızın gerekli parçalar kolayca sökülüp takılabilmektedir.
 
-<div style="display: inline-block;">
+<div class="col-6">
 {{< youtube Siqwj153muo >}}
 </div>
- <div style="display: inline-block;">
+<div class="col-6">
 {{< youtube Mp1nrkz_djY >}}
 </div>
