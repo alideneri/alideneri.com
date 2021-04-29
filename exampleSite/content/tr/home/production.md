@@ -46,7 +46,7 @@ Makinemiz **50gr**'dan **150gr**'a kadar olan hamurları ebatlayabilmekte ve kes
 <div class="col-5">
 {{< youtube qNszCWbSvi0 >}}
 </div>
-<div class="col-2"></div>
+<div class="col-1"></div>
 <div class="col-5">
 {{< youtube cEawWk-xMZY >}}
 </div>
