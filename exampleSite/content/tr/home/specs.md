@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 2  # Order that this section will appear.
+weight = 15  # Order that this section will appear.
 
 title = "Teknik Özellikler"
 subtitle = ""
@@ -41,10 +41,10 @@ subtitle = ""
 +++
 
 <center>
-<div class="col-6">
+<div style="display: inline-block;">
 <img src="/img/yerli.jpg" type="jpg" style="max-height: 100px;">
 </div>
-<div class="col-6">
+<div style="display: inline-block;">
 <img src="/img/garanti.png" type="png" >
 </div>
 </center>
