@@ -46,7 +46,7 @@ Makinemiz kolay temizliğe ve uç değişimine olanak verecek şekilde tasarlanm
 <div class="col-5">
 {{< youtube Siqwj153muo >}}
 </div>
-<div class="col-2"></div>
+<div class="col-1"></div>
 <div class="col-5">
 {{< youtube Mp1nrkz_djY >}}
 </div>
