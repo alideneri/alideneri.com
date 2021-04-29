@@ -46,6 +46,6 @@ subtitle = ""
  - Modüler yapısı ile kolayca taşınabilen, temizliği kolay, **gıda tüzüğüne uygun** *krom*, *paslanmaz çelik* ve *alüminyum* malzemeden üretilen makinemiz uzun yıllar boyunca hamur üretiminizdeki baş yardımcınız olacak şekilde tasarlanmıştır.
  
 ![](garanti.png) ![](yerli.jpg)
-<img src="/gallery/yerli.jpg" type="jpg" > <img src="/gallery/garanti.png" type="jpg" >
+<img src="/img/yerli.jpg" type="jpg" > <img src="/img/garanti.png" type="jpg" >
 
 {{< vimeo 322013198 >}}
