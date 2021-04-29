@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 3  # Order that this section will appear.
 
-title = "Teknik Özellikler"
+title = "Kesme, Yuvarlama, Gramajlama"
 subtitle = ""
 
 [design]
@@ -42,4 +42,4 @@ subtitle = ""
 
 Makinemiz **50gr**'dan **150gr**'a kadar olan hamurları ebatlayabilmekte ve kesintisiz hamur beslemesi yapıldığı takdirde **saatte 4000 adet** kadar kullanıma hazır hamur üretebilmektedir.
 
-{{< vimeo cEawWk-xMZY >}}
+{{< vimeo "cEawWk-xMZY" >}}
