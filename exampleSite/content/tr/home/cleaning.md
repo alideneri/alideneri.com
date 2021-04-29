@@ -6,9 +6,9 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 3  # Order that this section will appear.
+weight = 4  # Order that this section will appear.
 
-title = "Kesme, Yuvarlama, Gramajlama"
+title = "Kolay Temizlik ve Uç Değişimi"
 subtitle = ""
 
 [design]
@@ -40,6 +40,6 @@ subtitle = ""
 
 +++
 
-Makinemiz **50gr**'dan **150gr**'a kadar olan hamurları ebatlayabilmekte ve kesintisiz hamur beslemesi yapıldığı takdirde **saatte 4000 adet** kadar kullanıma hazır hamur üretebilmektedir.
+Makinemiz kolay temizliğe ve uç değişimine olanak verecek şekilde tasarlanmıştır. Uç değişimi veya günlük temizlik için herhangi bir ekstra alet edavata ihtiyaç duyulmaksızın gerekli parçalar kolayca sökülüp takılabilmektedir.
 
-{{< youtube cEawWk-xMZY >}}
+{{< youtube Mp1nrkz_djY >}}
