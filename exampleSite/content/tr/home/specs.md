@@ -45,6 +45,6 @@ subtitle = ""
  - Tamamı *krom*, *paslanmaz çelik* ve *alüminyum* yapı ile ıslak ortamlarda dahi kolay temizlenebilir, verimli ve steril bir çalışma ortamı sağlar.
  - Modüler yapısı ile kolayca taşınabilen, temizliği kolay, **gıda tüzüğüne uygun** *krom*, *paslanmaz çelik* ve *alüminyum* malzemeden üretilen makinemiz uzun yıllar boyunca hamur üretiminizdeki baş yardımcınız olacak şekilde tasarlanmıştır.
  
-{{< gallery album="garanti" >}}
+{{< garanti >}}
 
 {{< vimeo 322013198 >}}
