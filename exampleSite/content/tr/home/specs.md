@@ -40,9 +40,11 @@ subtitle = ""
 
 +++
 
- - Mekanik sistemlidir. Kolay temizlenebilir ve kolay taşınabilir. Manuel kontrol paneli ile saatte **4000** adede kadar üretim yapabilmektedir.
+ - Mekanik sistemlidir. Kolay temizlenebilir ve kolay taşınabilir. Manuel kontrol paneli ile **saatte 400 adet** kadar üretim yapabilmektedir.
  - **50gr** hamurdan **150gr** hamura kadar hamurları ebatlar.
- - Tamamı krom paslanmaz çelik ve alüminyum yapı ile ıslak ortamlarda dahi kolay temizlenebilir, verimli ve steril bir çalışma ortamı sağlar.
- - Modüler yapısı ile kolayca taşınabilen, temizliği kolay, gıda tüzüğüne uygun krom paslanmaz çelik ve alüminyum malzemeden üretilen makinemiz uzun yıllar boyunca hamur üretiminizdeki baş yardımcınız olacak şekilde tasarlanmıştır.
+ - Tamamı *krom*, *paslanmaz çelik* ve *alüminyum* yapı ile ıslak ortamlarda dahi kolay temizlenebilir, verimli ve steril bir çalışma ortamı sağlar.
+ - Modüler yapısı ile kolayca taşınabilen, temizliği kolay, **gıda tüzüğüne uygun** *krom*, *paslanmaz çelik* ve *alüminyum* malzemeden üretilen makinemiz uzun yıllar boyunca hamur üretiminizdeki baş yardımcınız olacak şekilde tasarlanmıştır.
  
+{{< figure src="garanti.png" caption="2 yıl garanti" >}} {{< figure src="yerli.jpg" caption="Yerli üretim" >}}
+
 {{< vimeo 322013198 >}}
